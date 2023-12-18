@@ -1,0 +1,6925 @@
+[
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "4",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 1.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "John"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "4"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Mike"
+            },
+            {
+                "node_id": 3,
+                "name": "Jobs"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "1"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "John"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "2"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "3"
+            }
+        ]
+    },
+    {
+        "nodes": [
+            {
+                "node_id": 0,
+                "name": "Mike"
+            },
+            {
+                "node_id": 1,
+                "name": "Mike"
+            },
+            {
+                "node_id": 2,
+                "name": "Jobs"
+            },
+            {
+                "node_id": 3,
+                "name": "Mike"
+            }
+        ],
+        "edges": [
+            {
+                "source_id_node": 0,
+                "target_id_node": 1,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 1,
+                "target_id_node": 2,
+                "amt": 0.0,
+                "strategy_name": "3",
+                "buscode": "3"
+            },
+            {
+                "source_id_node": 2,
+                "target_id_node": 3,
+                "amt": 0.0,
+                "strategy_name": "2",
+                "buscode": "1"
+            }
+        ]
+    }
+]

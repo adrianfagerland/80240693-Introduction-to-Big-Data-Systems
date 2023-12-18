@@ -1,0 +1,55 @@
+Partition 0
+0
+2
+1
+Partition 1
+5
+9
+6
+Partition 2
+2
+6
+3
+-----------------
+Partition 0:
+Master Vertices:
+Mirror Vertices:
+3
+1
+Edges:
+1 -> 1
+3 -> 1
+-----------------
+Partition 1:
+Master Vertices:
+5
+4
+3
+2
+1
+Mirror Vertices:
+2
+4
+1
+Edges:
+5 -> 1
+4 -> 3
+3 -> 1
+2 -> 2
+1 -> 5
+-----------------
+Partition 2:
+Master Vertices:
+4
+2
+Mirror Vertices:
+5
+2
+1
+Edges:
+4 -> 1
+5 -> 1
+1 -> 2
+2 -> 2
+-----------------
+

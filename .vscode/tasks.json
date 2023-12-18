@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "pandoc hw1",
+            "type": "shell",
+            "command": "pandoc ~/statistics/hw/hw1.md -o ~/statistics/hw/hw1.pdf",
+            "problemMatcher": []
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+Partition 0
+1
+2
+0
+1
+Partition 1
+2
+8
+6
+2
+Partition 2
+2
+5
+2
+2
+-----------------
+Partition 0:
+Master Vertices:
+3
+Edges:
+3 -> 1
+Number of Replicated Edges in Partition 0: 0
+-----------------
+Partition 1:
+Master Vertices:
+4
+1
+Edges:
+4 -> 2 (Replicated)
+1 -> 4 (Replicated)
+Number of Replicated Edges in Partition 1: 6
+-----------------
+Partition 2:
+Master Vertices:
+5
+2
+Edges:
+5 -> 1
+2 -> 2 (Replicated)
+Number of Replicated Edges in Partition 2: 2
+-----------------
+
